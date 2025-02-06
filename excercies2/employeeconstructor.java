@@ -1,5 +1,5 @@
 
-package employeeusingconstructor;
+
 import java.util.*;
 class employee
 {

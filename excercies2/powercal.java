@@ -1,6 +1,5 @@
 
 
-package powercalculation;
 import java.util.*;
 
 

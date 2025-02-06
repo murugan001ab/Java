@@ -1,6 +1,6 @@
-package currencyconvertor;
+
 import java.util.Scanner;
-public class currencyconvert1{
+public class curencyconvert{
 
     // Currency names and their rates relative to USD
     static String[] currencies = {"USD", "EUR", "JPY"};
